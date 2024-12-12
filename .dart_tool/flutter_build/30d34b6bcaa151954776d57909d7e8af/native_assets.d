@@ -1,0 +1,1 @@
+ C:\\Users\\sydes\\Desktop\\mobilLab\\lab88\\.dart_tool\\flutter_build\\30d34b6bcaa151954776d57909d7e8af\\native_assets.yaml: 
