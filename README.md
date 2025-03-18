@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 Flutter Weather App With API
 
