@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 
-# lab
-
 Flutter Weather App With API
 
 ![image](https://github.com/user-attachments/assets/5ea2571f-279f-4d9e-80c1-158ad88af6fd)
